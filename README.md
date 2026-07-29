@@ -1,5 +1,7 @@
 # Microsoft Defender XDR Incident Investigation and Response
 
+<img width="1536" height="1024" alt="ChatGPT Image Jul 29, 2026, 12_55_43 AM" src="https://github.com/user-attachments/assets/5d428fb5-c3ea-4d77-9787-411439b054c9" />
+
 ## Project Overview
 
 This project documents a simulated multi-stage endpoint compromise investigated through Microsoft Defender XDR Advanced Hunting. The investigation began after a Finance user reported repeated overnight login prompts on `npt-ws01`.
