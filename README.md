@@ -18,6 +18,8 @@ The hunt identified:
 
 The response plan is organized around the NIST SP 800-61 incident-response lifecycle: preparation, detection and analysis, containment, eradication, recovery, and post-incident improvement.
 
+<img width="950" height="363" alt="image" src="https://github.com/user-attachments/assets/89d5e7e8-5a92-45c5-8495-b3a4dd713e8e" />
+
 ---
 
 ## Table of Contents
